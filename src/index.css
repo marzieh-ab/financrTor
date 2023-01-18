@@ -1,0 +1,34 @@
+a{
+  text-decoration:none;
+  
+}
+
+*{
+  padding:0;
+  margin:0 ;
+  box-sizing:border-box
+  
+}
+
+
+
+.custom-header {
+  background-color:blue !important;
+ 
+  
+}
+
+.react-calendar-datetime-picker {
+ 
+  z-index:99999 !important;
+}
+
+
+.react-calendar-datetime-picker .input-picker .input-picker--input{
+  width:59% !important;
+  
+}
+
+Link{
+  padding:6px 16px !important
+}
